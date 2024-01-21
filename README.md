@@ -1,9 +1,8 @@
 # CodeGenie: Your Coding Chatbot Partner
-
 <div align="center">
 <br />
     <a href="https://codegenie-nikhil.vercel.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/nikhilmaguwala/nikhil-maguwala-space-portfolio/main/public/space_photo.png?token=GHSAT0AAAAAACMXOZWRAW6E3TZEYCAKJ5HGZNG5MCA" alt="Project Banner">
+      <img src="https://raw.githubusercontent.com/nikhilmaguwala/project_openai_codegenie/main/client/assets/codegenie.png?token=GHSAT0AAAAAACMXOZWQD7IJINUF5ZFIADCWZNNFHBQ" alt="Project Banner">
     </a>
   <br />
 
