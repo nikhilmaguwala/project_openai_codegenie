@@ -98,7 +98,7 @@ const handleSubmit = async (e) => {
         typeText(messageDiv, 'Please enter a prompt!')
         return
     } else {
-        const response = await fetch('http://localhost:5000', {
+        const response = await fetch('https://codegenie-c48q.onrender.com', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
